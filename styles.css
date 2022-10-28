@@ -1,0 +1,27 @@
+header{
+    height: 20vh;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+}
+.emoticonsList{
+    border: solid 3px red;
+    width: 35vh;
+}
+.dropArea{
+    border: solid 3px green;
+    width: 25vh;
+    height: 60vh;
+
+}
+.affirmationsResults{
+    border: solid 3px black;
+    width: 40vh;
+    height: 60vh;
+    
+}
+    
